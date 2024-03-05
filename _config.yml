@@ -6,7 +6,7 @@ title: Marcel Kollovieh # the website title (if blank, full name will be used in
 first_name: Marcel
 middle_name:
 last_name: Kollovieh
-email: m.kollovieh@tum.de
+email: # m.kollovieh@tum.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Homepage of Marcel Kollovieh. PhD student at TUM under the supervision of Stephan Günnemann.
 footer_text: >
