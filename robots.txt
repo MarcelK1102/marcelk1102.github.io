@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://marcelk1102.github.io/sitemap.xml
+Sitemap: https://marcelkollovieh.github.io/sitemap.xml
