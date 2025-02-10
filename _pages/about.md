@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: <strong> PhD Student </strong> in the <a href='https://www.cs.cit.tum.de/en/daml/home/'>Data Analytics and Machine Learning (DAML)</a> group at TUM .
 

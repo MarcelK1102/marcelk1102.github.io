@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our probabilistic hierarchical clustering paper got accepted at <a href='https://neurips.cc'>NeurIPS 2024</a>.
+Our paper on probabilistic hierarchical clustering has been accepted at <a href='https://neurips.cc'>NeurIPS 2024</a>.

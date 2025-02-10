@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our <a href='https://arxiv.org/abs/2307.11494'>paper</a> on unconditional diffusion models for time series forecasting got accepted at <a href='https://neurips.cc'>NeurIPS 2023</a>.
+Our <a href='https://arxiv.org/abs/2307.11494'>paper</a> on unconditional diffusion models for time series forecasting has been accepted at <a href='https://neurips.cc'>NeurIPS 2023</a>.

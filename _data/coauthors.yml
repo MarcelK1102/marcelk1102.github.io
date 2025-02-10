@@ -23,3 +23,11 @@
 "Günnemann":
   - firstname: ["Stephan"]
     url: https://www.cs.cit.tum.de/en/daml/team/damlguennemann/
+
+"Schwinn":
+  - firstname: ["Leo"]
+    url: https://schwinnl.github.io
+
+"Charpentier":
+  - firstname: ["Bertrand"]
+    url: https://sharpenb.github.io
